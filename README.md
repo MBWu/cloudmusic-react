@@ -7,6 +7,7 @@ cloudmusic by react+redux+classnames
 ``` javascript
   git clone git@github.com:MBWu/NeteaseCloudMusicApi.git;
   cd ./NeteaseCloudMusicApi
+  npm install
   node app.js
 ```
 
