@@ -14,5 +14,6 @@ cloudmusic by react+redux+classnames
  ``` javascript
   git@github.com:MBWu/cloudmusic-react.git
   cd ./cloudmusic-react
+  npm install
   npm start
 ```
